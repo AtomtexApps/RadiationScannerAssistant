@@ -4,7 +4,9 @@
 ### • Detection  and  identification  of  gamma  radionuclides,  measurement  of ambient gamma radiation dose equivalent rate,
 ### • Detection of neutron radiation sources.</i>   
 
-![alt tag](zavitushka.jpg)
+
+
+
 
 [Radiation Scanner Assistant_Manual eng.pdf](./RSA-manual/Radiation%20Scanner%20Assistant_eng.pdf)   
 [Radiation Scanner Assistant_Manual rus.pdf](./RSA-manual/Radiation%20Scanner%20Assistant_rus.pdf)    
