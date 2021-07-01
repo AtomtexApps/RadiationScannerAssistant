@@ -5,13 +5,12 @@
 ### • Detection of neutron radiation sources.</i>   
 
 
-[Radiation Scanner Assistant_Manual eng.pdf](./RSA-manual/Radiation Scanner Assistant_eng.pdf)   
-[Radiation Scanner Assistant_Manual rus.pdf](./RSA-manual/Radiation Scanner Assistant_rus.pdf)    
+[Radiation Scanner Assistant_Manual eng.pdf](./RSA-manual/Radiation%20Scanner%20Assistant_eng.pdf)   
+[Radiation Scanner Assistant_Manual rus.pdf](./RSA-manual/Radiation%20Scanner%20Assistant_rus.pdf)    
 
 
 [Version history](./VERSION.md)    
 [Список версий](./VERSION_RUS.md)    
 
-[DOWNLOAD .apk VERSION - 1.2.8.9](./Radiation%20Scanner%20Assistant%20-%20v1.2.8.9.apk)
 
 ![alt tag](fon2.jpg)
