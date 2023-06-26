@@ -4,7 +4,7 @@
 [RSA Manual eng.pdf](./RSA-manual/Radiation%20Scanner%20Assistant_eng.pdf)  
 [RSA Manual rus.pdf](./RSA-manual/Radiation%20Scanner%20Assistant_rus.pdf)
 
-[<i>DOWNLOAD LAST RELEASE - 1.2.9.90</i>](./RadiationScannerAssistant-v1.2.9.90.apk)
+[<i>DOWNLOAD LAST RELEASE RSA - 1.2.9.92</i>](./RadiationScannerAssistant-v1.2.9.92.apk)
 
 | <img src="rsa_1.png"> | <img src="rsa_2.png"> | <img src="rsa_3.png"> |
 |-----------------------|-----------------------|-----------------------|
